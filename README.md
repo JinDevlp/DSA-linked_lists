@@ -1,3 +1,3 @@
 # Leetcode
 
-## practicing Python3 on Leetcode
+## Documenting Data Structure problems solved on Leetcode using Python 
